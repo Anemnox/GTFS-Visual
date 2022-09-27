@@ -1,6 +1,7 @@
 
 class FeedInfo:
     #required
+    uuid = None
     feed_publisher_name = None
     feed_publisher_url = None
     feed_lang = None

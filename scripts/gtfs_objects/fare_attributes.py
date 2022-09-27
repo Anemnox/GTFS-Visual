@@ -1,6 +1,7 @@
 
 class FareAttribute:
     #required
+    uuid = None
     fare_id = None
     price = 0
     currency_type = None

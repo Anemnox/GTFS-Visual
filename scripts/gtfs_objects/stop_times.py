@@ -1,6 +1,7 @@
 
 class StopTime:
     #required
+    uuid = None
     trip_id = None
     stop_id = None
     stop_sequence = None

@@ -1,6 +1,7 @@
 
 class Calendar:
     #required
+    uuid = None
     service_id = None
     start_date = None
     end_date = None

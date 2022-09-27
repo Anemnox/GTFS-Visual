@@ -1,6 +1,7 @@
 
 class Trip:
     #required
+    uuid = None
     route_id = None
     service_id = None
     trip_id = None

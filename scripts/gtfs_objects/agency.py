@@ -2,6 +2,7 @@
 
 class Agency:
     #required
+    uuid = None
     agency_name = None
     agency_url = None
     agency_timezone = None

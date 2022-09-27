@@ -1,6 +1,7 @@
 
 class Translation:
     #required
+    uuid = None
     table_name = None
     field_name = None
     language = None

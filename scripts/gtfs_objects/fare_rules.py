@@ -1,6 +1,7 @@
 
 class FareRule:
     #required
+    uuid = None
     fare_id = None
 
     #conditional or optional

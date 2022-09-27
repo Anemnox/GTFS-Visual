@@ -1,6 +1,7 @@
 
 class Route:
     #required
+    uuid = None
     route_id = None
     route_type = None
 

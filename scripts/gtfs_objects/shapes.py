@@ -1,6 +1,7 @@
 
 class Shape:
     #required
+    uuid = None
     shape_id = None
     shape_pt_lat = 0
     shape_pt_lon = 0

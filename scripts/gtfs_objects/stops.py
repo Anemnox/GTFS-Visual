@@ -1,6 +1,7 @@
 
 class Stop:
     #required
+    uuid = None
     stop_id = None
 
     #conditional or optional

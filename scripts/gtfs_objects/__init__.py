@@ -16,11 +16,12 @@ from .transfers import Transfers
 from .translations import Translation
 from .trips import Trip
 
+from .gtfs_file import GTFSFile
 from .gtfs_object import GTFSObject
 
 __all__ = [
     "Agency", "Attribution", "Calendar", "CalendarDate",
     "FareAttribute", "FareRule", "FeedInfo", "Frequencies",
     "Route", "Shape", "StopTime", "Stop", "Transfers",
-    "Translation", "Trip", "GTFSObject"
+    "Translation", "Trip", "GTFSFile", "GTFSObject"
 ]

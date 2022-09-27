@@ -1,6 +1,7 @@
 
 class Attribution:
     #required
+    uuid = None
     organization_name = None
 
     #conditionally required or optional
